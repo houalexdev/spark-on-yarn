@@ -1,13 +1,13 @@
 ## Spark on Yarn within Docker Containers
 
 
-![alt tag](https://raw.githubusercontent.com/madaibaba/spark-on-yarn/master/spark-on-yarn.png)
+![alt tag](https://raw.githubusercontent.com/houalexdev/spark-on-yarn/master/spark-on-yarn.png)
 
 
 #### 1. Clone Github Repository
 
 ```
-git clone https://github.com/madaibaba/spark-on-yarn
+git clone https://github.com/houalexdev/spark-on-yarn
 ```
 
 #### 2. Pull Docker Image
